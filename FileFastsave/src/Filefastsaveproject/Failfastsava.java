@@ -18,6 +18,8 @@ public class Failfastsava {
 		in.add(19);
 		in.add(20);
 		in.add(21);
+		in.add(22);
+		in.add(23);
 		for(Integer i:in) {
 			System.out.println(i);
 			in.add(20);
